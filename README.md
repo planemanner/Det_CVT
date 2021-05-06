@@ -11,8 +11,6 @@
     - pyqt5, numpy, PIL, labelme, opencv-python, pycocotools, tqdm
   - Prerequired
     You need to make label list by using make_label_list.py. Detail description will be updated
-    - label list yaml file.
-      - Use make label list file [Code](https://github.hmckmc.co.kr/kangil-lee/DetectionCVT/blob/master/make_label_list.py)
       
       **Content of Example**
   
